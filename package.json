@@ -1,6 +1,6 @@
 {
   "name": "NavHomeScreen",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "description": "GrapesJS Plugin Boilerplate",
   "main": "dist/NavHomeScreen.js",
   "scripts": {
